@@ -20,6 +20,7 @@ const styles = StyleSheet.create({
   }
 });
 
+// change to stateful component
 const MainScreen = () => (
   <View style={styles.container}>
     <View style={styles.logoContainer}>
